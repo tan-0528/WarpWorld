@@ -1,0 +1,9 @@
+name: WarpWorld
+version: 1.1
+main: tan0528.warpworld.WarpWorld
+api-version: 1.20
+commands:
+  vwarp:
+    description: ワールド移動
+  vwarpworld:
+    description: 管理コマンド

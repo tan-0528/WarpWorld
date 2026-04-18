@@ -1,0 +1,9 @@
+# WarpWorld Config
+# 管理したいワールドの名前をここに追加してください
+worlds:
+  - world
+  - shigen_middle
+
+# ゲートの情報（ゲーム内で /vwarpworld creategate を実行すると自動で追記されます）
+# 手動で編集する場合は、座標とターゲットワールド名を正確に入力してください
+gates:
